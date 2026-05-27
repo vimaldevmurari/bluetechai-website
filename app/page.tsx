@@ -9,7 +9,7 @@ export default function Home() {
         </h1>
 
         <p className="text-xl md:text-2xl text-blue-200 mb-8">
-          Innovating Beyond Intelligence
+          Innovating Beyond Intelligence ee
         </p>
 
         <div className="flex gap-4">
